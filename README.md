@@ -1,0 +1,2 @@
+# SVNITBlogs
+Simple blogging website.
